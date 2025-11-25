@@ -33,7 +33,7 @@ const App = () => {
         value={input}
         onChange={handleInput}
        />
-      <p>Sum: {sum}</p>
+      <h1>Sum: {sum}</h1>
     </div>
   );
 };
